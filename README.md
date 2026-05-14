@@ -1,6 +1,6 @@
 CFL CONDITION
 
-bool CFL: cria uma função que recebe c, dt e dx e retorna true e false.
+bool CFL: cria uma função que recebe c, dt e dx e retorna true ou false.
 
 c -> velocidade da onda no meio
 dt -> passo de tempo
